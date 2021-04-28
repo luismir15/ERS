@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="h2.UserDaoH2TestTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-22T19:57:44" hostname="LuisMacs-Mac-mini.local" time="1.139">
+  <properties/>
+  <testcase name="selectUserByUsername()" classname="h2.UserDaoH2TestTest" time="1.139"/>
+  <system-out><![CDATA[Testing select user by username
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

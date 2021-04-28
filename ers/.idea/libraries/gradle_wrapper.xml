@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gradle-wrapper">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../github/Revature-LectureCode/java/server/gradle/wrapper/gradle-wrapper.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

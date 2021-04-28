@@ -1,0 +1,17 @@
+.background-img {
+    background-image: url("pic.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 350px;
+}
+
+.form-background {
+
+    background-color: rgba(187, 226, 238, 0.459);
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 8px;
+}
